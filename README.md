@@ -5,6 +5,10 @@ this is a project that was started by Stas and completed by me as part of a grou
 `python3 MakeLowerCase.py [your-input-file.txt]`
 
 ### Future Work:
+Import list of words to capitalize from separate file for easier editing
+
+Export file should maintain imported file's name and append _lower before the file ext
+
 Converting this script to js to use on a NodeJS project:
 - create NodeJS project base (express, pug)
     - ingest file via UI
